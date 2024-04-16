@@ -1,4 +1,7 @@
 pandas==1.3.5
 numpy
 seaborn
--e .
+scikit-learn
+catboost
+xgboost
+#-e .
